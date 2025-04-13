@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1744558818 source:c:\users\ibang\desktop\kkk\main.cpp
+	<iostream>
+	"functions.h"
+
+1744558741 c:\users\ibang\desktop\kkk\functions.h
+
+1744559021 source:c:\users\ibang\desktop\kkk\functions.cpp
+	<iostream>
+	"functions.h"
+
