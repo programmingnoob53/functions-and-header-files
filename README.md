@@ -32,4 +32,4 @@ Make sure to include the `functions.h` header and compile both `.cpp` files:
 
 ```bash
 g++ *.cpp -o functions
-functions
+./functions
