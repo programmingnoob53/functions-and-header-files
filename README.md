@@ -25,7 +25,7 @@ These functions helped me practice:
 | `check_string_is_same_backwards(std::string phrase)`  | Checks if a string is a palindrome                 |
 
 -------------
-Why I Made This
+**Why I Made This**
 I’m currently a first-year CS student at UJ 🇿🇦
 This project helps me solidify the basics of:
 
@@ -36,6 +36,11 @@ Clean code structure
 
 One day, I want to build bigger things like a chess engine(stockfish) and my own AI assistant — this is the beginning of that journey.
 --------------
+**Feedback / Help**
+I'm always open to learning!
+If you see ways I can improve the code or structure — feel free to open an issue or PR.
+Let's grow together 🧠🔥
+---------------
 ## 📌 How to Use
 
 Make sure to include the `functions.h` header and compile both `.cpp` files:
