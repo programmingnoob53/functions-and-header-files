@@ -29,10 +29,10 @@ Why I Made This
 I’m currently a first-year CS student at UJ 🇿🇦
 This project helps me solidify the basics of:
 
--C++ syntax
--Memory and pointers
--Functional thinking
--Clean code structure
+C++ syntax
+Memory and pointers
+Functional thinking
+Clean code structure
 
 One day, I want to build bigger things like a chess engine(stockfish) and my own AI assistant — this is the beginning of that journey.
 --------------
